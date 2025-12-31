@@ -41,6 +41,8 @@ cd ..
 ```
 
 ## Training & Evaluation
+### Training
+...
 ### MBPP evaluation
 ```./MBPP```. Built based on [repository](https://github.com/deepseek-ai/DeepSeek-Coder/tree/main/Evaluation/MBPP)
 ### HumanEval evaluation
